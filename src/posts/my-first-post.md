@@ -10,6 +10,8 @@ tags:
   - center
   - right
 ---
+![](/static/img/img_20220829_101914.jpg)
+
 # This is a Heading h1
 
 ## This is a Heading h2
